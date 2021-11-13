@@ -1,6 +1,10 @@
 # Datasets
 
-**#1:** LOR / Legends of Runeterra
+<p align = 'center'>
+ <b> #1: LOR / Legends of Runeterra </b>
+ </center>
+ 
+![caitlyn.png](/images/lor_banner.jpg)
 ### Context
 
 Legends of Runeterra is a 2020 digital collectible card game developed and published by Riot Games. Inspired by the physical collectible card game Magic: The Gathering, the developers sought to create a game within the same genre that significantly lowered the barrier to entry. 
