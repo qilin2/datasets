@@ -1,6 +1,7 @@
 # Datasets
 
-**#1:** LOR / Legends of Runeterra
+<p align ='center'> <b> #1: LOR / Legends of Runeterra </b>
+ </p>
 
 ![caitlyn.png](/images/lor_banner.jpg)
 ### Context
