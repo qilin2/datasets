@@ -12,7 +12,7 @@ Like other collectible card games, players play one versus one to reduce their o
 Legends of Runeterra has been well-received by critics, who point to its generous progression systems, accessible gameplay, and high-quality visuals, and has won several industry awards.
 
 [Official](https://playruneterra.com/en-us/) | [Wikipedia](https://en.wikipedia.org/wiki/Legends_of_Runeterra) | [Gameplay](https://www.youtube.com/watch?v=LIcrGl2L7M8) 
-[Explore the Universe of Runterra!](https://universe.leagueoflegends.com/en_US/)
+[Explore the Universe of Runeterra!](https://universe.leagueoflegends.com/en_US/)
 
 
 
