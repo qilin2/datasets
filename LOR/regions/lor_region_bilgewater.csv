@@ -1,0 +1,276 @@
+region_1,region_2,attack,cost,health,effect,level_up_description,flavor_text,artist_name,card_name,card_code,keyword_1,keyword_2,keyword_3,spell_speed,rarity,affiliation,type,collectible,set_number,set_name,level
+Bilgewater,,0,0,0,Obliterate an enemy with less Health than me.,,"""She swallowed me whole, me skiff and me soul,
+So I'm singin' this song in her belly,
+And now I must wait 'til I meet my fate,
+In the Wing-Eared Sunken Lady."" - ""Ballad of the Wing-Eared Sunken Lady""",Kudos Productions,Devour,02BW056T1,Skill,NA,NA,,None,,Ability,FALSE,2,Rising Tides,
+Bilgewater,,0,0,0,"Deal 2 to a unit.
+
+If it's dead or gone, deal 1 to the enemy Nexus instead.",,Gangplank's cruelty doesn't end with those who wrong him. To make an enemy of the Saltwater Scourge is to bring death upon everyone you hold dear.,Kudos Productions,Cannon Barrage,02BW028T1,Skill,NA,NA,,None,,Ability,FALSE,2,Rising Tides,
+Bilgewater,,0,0,0,Deal 1 to the enemy Nexus.,,"""Captain's orders: bullet to the face!"" - Crackshot Corsair",Kudos Productions,Crackshot,02BW060T1,Skill,NA,NA,,None,,Ability,FALSE,2,Rising Tides,
+Bilgewater,,0,0,1,"Powder Kegs stack.
+
+All of your spells and skills deal 1 extra damage.
+
+Destroy me when your spell or skill damages enemies or the enemy Nexus.",,"""Where there's a keg, there's a way."" - Bilgewater saying",Kudos Productions,Powder Keg,02BW032T1,Immobile,Vulnerable,NA,,None,,Unit,FALSE,2,Rising Tides,
+Bilgewater,,0,0,0,Deal 1 to all enemies and the enemy Nexus.,,"""Blow 'em to the depths!"" - Gangplank",Kudos Productions,Powderful Explosion,02BW032T4,Skill,NA,NA,,None,,Ability,FALSE,2,Rising Tides,
+Bilgewater,,0,0,0,Deal 1 three times to all battling enemies and the enemy Nexus.,,"Even if you fail to hear the bawdy cries of her crew, there's no way you'll miss her laughter...",Kudos Productions,Bullet Time,02BW022T4,Skill,NA,NA,,None,,Ability,FALSE,2,Rising Tides,
+Bilgewater,,0,0,0,Deal 1 to all battling enemies and the enemy Nexus.,,"""A little something to remember me by."" - Miss Fortune",Kudos Productions,Love Tap,02BW022T1,Skill,NA,NA,,None,,Ability,FALSE,2,Rising Tides,
+Bilgewater,,0,0,0,Deal 2 and Stun the strongest enemy.,,"""All that glitters..."" - Twisted Fate",Kudos Productions,Gold Card,02BW026T5,Skill,NA,NA,,None,,Ability,FALSE,2,Rising Tides,
+Bilgewater,,0,0,0,"Refill 1 spell mana.
+
+Draw 1.",,"""Blue as the Serpentine."" - Twisted Fate",Kudos Productions,Blue Card,02BW026T2,Skill,NA,NA,,None,,Ability,FALSE,2,Rising Tides,
+Bilgewater,,0,0,0,Deal 1 to all enemies and the enemy Nexus.,,"""Somethin' for everyone."" - Twisted Fate",Kudos Productions,Red Card,02BW026T4,Skill,NA,NA,,None,,Ability,FALSE,2,Rising Tides,
+Bilgewater,,0,0,0,Deal 1 to the enemy Nexus.,,"""Yer supposed to fire w' the rest of us, lad! That's what a salvo is!"" - Petty Officer",Kudos Productions,Warning Shot,02BW020,Burst,NA,NA,Burst,Common,,Spell,TRUE,2,Rising Tides,
+Bilgewater,,2,1,1,,,"""MY GRATEST STRENF IS PREBABLE MY COMAND OF DA COMON PEEPUL AN ALSO APPARENLY MY SPELING IS RELLY GUD TO"" - Note scribbled in sand",Kudos Productions,Shellshocker ,02BW040,Attune,NA,NA,,Common,,Unit,TRUE,2,Rising Tides,
+Bilgewater,,1,1,1,,,"""...and the idiot said I had hips that 'rolled like the waves'. I told him to cut the flattery, or I'd cut out his tongue.""",SIXMOREVODKA,Prowling Cutthroat,02BW013,Fearsome,Elusive,NA,,Common,,Unit,TRUE,2,Rising Tides,
+Bilgewater,,2,1,1,Last Breath: Deal 1 to the enemy Nexus.,,"""Mischievous little scamps, ain't they? More help than they seem, but word is they've got explosive tempers..."" - Syren deckhand",Kudos Productions,Powder Monkey,02BW034T1,Ephemeral,Last Breath,NA,,None,,Unit,FALSE,2,Rising Tides,
+Bilgewater,,1,1,2,"When allies attack, deal 1 to the enemy Nexus.",,"""Being short gives you a surprising advantage in a fight. Turns out, nobody ever thinks to look down.""",SIXMOREVODKA,Crackshot Corsair,02BW060,NA,NA,NA,,Common,Yordle,Unit,TRUE,2,Rising Tides,
+Bilgewater,,2,1,2,Plunder: Grant me +1|+1.,,"Entry into the Jagged Hooks is a bloody affair. Sailors must prove they know their way around a ship, a fight, and a butcher's block. The most unsavory candidates hit all three marks in a single scrap.",Wild Blue Studios,Jagged Butcher,02BW058,NA,NA,NA,,Common,Pirate,Unit,TRUE,2,Rising Tides,
+Bilgewater,,2,1,1,"When I'm summoned, Toss 3.",,"It takes a special sort to make complete garbage of perfectly seaworthy gear. But if there's one thing they're good at, it's that. Just that.",Alex Heath,Dreg Dredgers,02BW047,NA,NA,NA,,Common,,Unit,TRUE,2,Rising Tides,
+Bilgewater,,1,1,1,Plunder: Grant me 2 random keywords.,,"""His picture's been on the Bounty Board longer'n most, for he's a greedy, ruthless devil that won't let anyone or anything stand in his way. Worst of all? He's... He's cute, damn it."" - Gangplank",SIXMOREVODKA,Plunder Poro,02BW010,NA,NA,NA,,Common,"Poro, Pirate",Unit,TRUE,2,Rising Tides,
+Bilgewater,,1,1,2,"When I'm summoned, draw 1 at the next Round Start and give it Fleeting.",,"""It don't make no sense to me. I was knocking 'em in easy, but the last one just... wouldn't go. Not my day, I s'pose..."" - Brash Gambler",Dao Le,Pool Shark,02BW009,NA,NA,NA,,Common,,Unit,TRUE,2,Rising Tides,
+Bilgewater,,0,1,0,"Deal 1 to anything.
+
+If this kills it, deal 1 to the enemy Nexus.
+
+Create a Gangplank in your deck.",,"Gangplank's version of mediation is often brief, and always bloody.",Kudos Productions,Gangplank's Parrrley,02BW032T2,Slow,NA,NA,Slow,None,,Spell,FALSE,2,Rising Tides,
+Bilgewater,Bandle City,2,1,1,"When you cast a spell, stop all enemy spells and skills targeting me and give me Elusive this round.",You've cast 6+ spells.,"Of all Bilgewater's legendary figures, Fizz is the most mercurial. Some sailors curse him for the countless brutal wrecks littering the coast...",SIXMOREVODKA,Fizz,02BW046,Imbue,NA,NA,,Champion,Yordle,Unit,TRUE,2,Rising Tides,0
+Bilgewater,Bandle City,3,1,2,"When you cast a spell, stop all enemy spells and skills targeting me and give me Elusive this round.
+
+Nexus Strike: Create a Chum the Waters in hand.",,...while others insist he's just a playful child who safeguards others on their journeys home.,SIXMOREVODKA,Fizz,02BW046T3,Imbue,NA,NA,,None,Yordle,Unit,FALSE,2,Rising Tides,1
+Bilgewater,,0,1,0,"Deal 1 to anything.
+
+If this kills it, deal 1 to the enemy Nexus.",,"Gangplank's version of mediation is often brief, and always bloody.",Kudos Productions,Parrrley,02BW018,Slow,NA,NA,Slow,Common,,Spell,TRUE,2,Rising Tides,
+Bilgewater,,0,1,0,Summon a random 1 cost follower.,,"""Whatcha think, Baz? He don't look so tough.""
+""Ya sure, Gav? He broke out of prison...""
+""Means he's wily, not tough. Come on!"" - Baz and Gav, aspiring bounty hunters",Kudos Productions,Jailbreak,02BW048,Slow,NA,NA,Slow,Common,,Spell,TRUE,2,Rising Tides,
+Bilgewater,,0,1,0,"Give an enemy Vulnerable this round. If it dies this round, draw 1.",,"""Keep yer chin up and yer spirits high, boy! If the cap'n sees ya saggin', he'll hoist ya up, cut y'open, an' feed ya to the gulls. Now, move yer arse!"" - Dreadway deckhand",Greg Faillace,Ye Been Warned,02BW001,Slow,NA,NA,Slow,Common,,Spell,TRUE,2,Rising Tides,
+Bilgewater,,0,1,0,Toss 4.,,"""If it ain't worth its weight, it goes over. Same goes for you lot, 'n all. Now back ta work!"" - Petty Officer",Kudos Productions,Jettison,02BW044,Burst,NA,NA,Burst,Rare,,Spell,TRUE,2,Rising Tides,
+Bilgewater,,1,2,2,"When I'm summoned, create in hand a random 1 cost spell from your regions.",,"Most shallows teem with all kinds of marine life, but none compare to the reefs of the Azure Way. The Way is a magical, otherworldly place, full of wonder.",Kudos Productions,Coral Creatures,02BW014,Attune,NA,NA,,Rare,,Unit,TRUE,2,Rising Tides,
+Bilgewater,,3,2,2,Plunder: Grant 1 cost allies everywhere +1|+0.,,"Once she fires, the Hooks have to move fast. Blood in the water brings all manner of company... and none of it is welcome.",JiHun Lee,Jagged Taskmaster,02BW055,NA,NA,NA,,Epic,Pirate,Unit,TRUE,2,Rising Tides,
+Bilgewater,,2,2,2,"When I'm summoned, summon a Powder Keg.",,"""Aye, we could fight 'em at dawn, when their crew's awake and their cannons are primed. Or we could leave 'em a gift tonight, nice and quiet-like...""",Dao Le,Dreadway Deckhand,02BW004,NA,NA,NA,,Common,Pirate,Unit,TRUE,2,Rising Tides,
+Bilgewater,,2,2,3,"When I'm summoned, grant the strongest enemy Vulnerable.",,"""This your picture? Oof, you're even rougher on the eyes than advertised--let's hope your head's worth my while.""",SIXMOREVODKA,Hired Gun,02BW005,NA,NA,NA,,Common,Pirate,Unit,TRUE,2,Rising Tides,
+Bilgewater,,2,2,3,,,"Legends say a pale, horned whale once stole from the Bearded Lady. As punishment, the Lady covered the greedy creature in glittering gold, so it would forever tempt the avarice of others.",SIXMOREVODKA,Golden Narwhal,02BW036,Elusive,Vulnerable,NA,,Common,,Unit,TRUE,2,Rising Tides,
+Bilgewater,,2,2,2,"When you draw an enemy card, reduce its cost by 1.
+
+Plunder: Nab 1.",,"""If you want it, I've got it! Even got some 'special stock'.... Just remember, you didn't get it from me!""",SIXMOREVODKA,Black Market Merchant,02BW033,NA,NA,NA,,Rare,,Unit,TRUE,2,Rising Tides,
+Bilgewater,,0,2,0,"Deal 1 to three different randomly targeted enemies or the enemy Nexus.
+
+Create a Miss Fortune in your deck.",,"""Guns blazin'!"" - Miss Fortune",Kudos Productions,Miss Fortune's Make it Rain,02BW022T3,Fast,NA,NA,Fast,None,,Spell,FALSE,2,Rising Tides,
+Bilgewater,,0,2,0,"Place a card from hand into your deck to draw 2 at the next Round Start. Give them Fleeting.
+
+Create a Twisted Fate in your deck.",,"""I make my own luck."" - Twisted Fate",Kudos Productions,Twisted Fate's Pick a Card,02BW026T1,Burst,NA,NA,Burst,None,,Spell,FALSE,2,Rising Tides,
+Bilgewater,,0,2,0,Summon 2 Powder Kegs.,,"""Barrel!"" - Gangplank",Kudos Productions,More Powder!,02BW012,Slow,NA,NA,Slow,Common,,Spell,TRUE,2,Rising Tides,
+Bilgewater,,0,2,0,Place a card from hand into your deck to draw 2 at the next Round Start. Give them Fleeting.,,"""I make my own luck."" - Twisted Fate",Kudos Productions,Pick a Card,02BW043,Burst,NA,NA,Burst,Rare,,Spell,TRUE,2,Rising Tides,
+Bilgewater,,0,2,0,Deal 1 to three different randomly targeted enemies or the enemy Nexus.,,"""Guns blazin'!"" - Miss Fortune",Kudos Productions,Make it Rain,02BW045,Fast,NA,NA,Fast,Common,,Spell,TRUE,2,Rising Tides,
+Bilgewater,,0,3,5,Round Start: Deal 2 to me and summon a Powder Monkey.,,"""This one's a... souvenir. The crew nabbed it from a crazy old rival of mine. Turns out the fool's ramblings about 'ancient, mysterious powers' weren't too far from the truth..."" - Miss Fortune",Kudos Productions,Monkey Idol,02BW034,Immobile,NA,NA,,Rare,,Unit,TRUE,2,Rising Tides,
+Bilgewater,,0,3,6,,,"Lively currents of magic weave through Serpent Isles' reefs, nourishing the sea's extraordinary inhabitants.",Kudos Productions,Bubble Bear,02BW019,Attune,Elusive,NA,,Common,,Unit,TRUE,2,Rising Tides,
+Bilgewater,,3,3,1,Play: Summon a Powder Keg or a random 1 cost follower.,,"Few things, he learned, could motivate a slacking sailor as promptly as a lit fuse.",SIXMOREVODKA,Petty Officer,02BW008,NA,NA,NA,,Rare,"Yordle, Pirate",Unit,TRUE,2,Rising Tides,
+Bilgewater,,3,3,1,Play: Summon a random 1 cost follower.,,"Few things, he learned, could motivate a slacking sailor as promptly as a lit fuse.",SIXMOREVODKA,Petty Officer,02BW008T02,NA,NA,NA,,None,"Yordle, Pirate",Unit,FALSE,2,Rising Tides,
+Bilgewater,,3,3,1,Play: Summon a Powder Keg.,,"Few things, he learned, could motivate a slacking sailor as promptly as a lit fuse.",SIXMOREVODKA,Petty Officer,02BW008T01,NA,NA,NA,,None,"Yordle, Pirate",Unit,FALSE,2,Rising Tides,
+Bilgewater,,1,3,4,"When I'm summoned or Round Start: Grant me +0|+1 for each card you drew last round, then shuffle my stats.
+
+",,"One prototype spun three bombs and then exploded. Later models had this early ""feature"" removed.",Kudos Productions,Slotbot,02BW016,NA,NA,NA,,Rare,,Unit,TRUE,2,Rising Tides,
+Bilgewater,,4,3,1,"When I'm summoned, create a random Sea Monster in hand.",,"The lure of fortune pulls countless crews out beyond the shallows. Those poor souls soon discover how terrifying the waters can be, and why so few return.",SIXMOREVODKA,Jaull Hunters,02BW039,Challenger,NA,NA,,Rare,Pirate,Unit,TRUE,2,Rising Tides,
+Bilgewater,,3,3,3,"When allies attack, deal 1 to all battling enemies and the enemy Nexus.",I've seen you attack 4 times.,"""'Miss' Fortune? Out here, you call me 'Captain'.""",SIXMOREVODKA,Miss Fortune,02BW022,NA,NA,NA,,Champion,Pirate,Unit,TRUE,2,Rising Tides,0
+Bilgewater,,4,3,4,"When allies attack, deal 1 three times to all battling enemies and the enemy Nexus.",,"""Most people don't get close enough to see the craftsmanship on these guns. Lucky you.""",SIXMOREVODKA,Miss Fortune,02BW022T2,Overwhelm,NA,NA,,None,Pirate,Unit,FALSE,2,Rising Tides,1
+Bilgewater,,0,3,0,"When drawn, costs 1 less this round.
+
+Grant an ally +2|+1.",,"""Ain't nothin' like a hot streak to keep the chips comin'."" - Twisted Fate",Kudos Productions,Pocket Aces,02BW061,Burst,NA,NA,Burst,Common,,Spell,TRUE,2,Rising Tides,
+Bilgewater,,0,3,0,Summon 2 random 1 cost followers.,,"""Oi, Gav--ain't that the fella we're after? Looks like he found a friend.""
+""Is that... Is that a shark-man, Baz?""
+""It's also a bunch more gold, mate. Come on..."" - Baz and Gav, aspiring bounty hunters",Kudos Productions,Double Trouble,02BW024,Slow,NA,NA,Slow,Rare,,Spell,TRUE,2,Rising Tides,
+Bilgewater,,0,3,0,"Reduce the cost of Sea Monster allies everywhere by 1.
+
+Draw a Sea Monster.",,"Sailors speak in hushed tones of dark days to come; when the seas churn and boil, and unspeakable horrors rise from the waves.",Kudos Productions,Lure of the Depths,02BW023,Burst,NA,NA,Burst,Rare,,Spell,TRUE,2,Rising Tides,
+Bilgewater,,0,3,0,"Nab 1.
+
+Plunder: Nab 1 more.",,"What's mine is mine, and what's yours is... also mine.",Kudos Productions,Pilfered Goods,02BW049,Burst,NA,NA,Burst,Common,,Spell,TRUE,2,Rising Tides,
+Bilgewater,,0,3,0,Plunder: Draw a random non-champion card from the enemy hand.,,"""Cards ain't about luck. It's about people. You get the folks across the table to doubt themselves? Might as well take all they've got there and then."" - Twisted Fate",Kudos Productions,Sleight of Hand,02BW063,Slow,NA,NA,Slow,Rare,,Spell,TRUE,2,Rising Tides,
+Bilgewater,,4,4,4,,,"""Fear not the blasted beast ye know,
+For some survive their thunder,
+But what of them that broke the bow,
+An' took them poor souls under?"" - Found scratched into a Bilgewater tavern beam",SIXMOREVODKA,The Beast Below,02BW041,Deep,NA,NA,,Common,Sea Monster,Unit,TRUE,2,Rising Tides,
+Bilgewater,,3,4,3,Allegiance: Nab 1 and create a Warning Shot in hand.,,"""Y'know, friends love to help friends out. And you? I like the shine in your eye and the glint on your cutlass! It is a really, really nice cutlass.""",SIXMOREVODKA,Yordle Grifter,02BW011,NA,NA,NA,,Rare,"Yordle, Pirate",Unit,TRUE,2,Rising Tides,
+Bilgewater,,4,4,5,"To play me, discard 2.
+
+Attack: Draw 2 and give them Fleeting.",,"""Ain't nothing to it, most o' the time. Tables are full of fools too busy singing 'emselves hoarse to focus on the game. Not that I mind none. Coin's coin, and it's better in my pocket than theirs.""",JiHun Lee,Brash Gambler,02BW007,NA,NA,NA,,Rare,,Unit,TRUE,2,Rising Tides,
+Bilgewater,,2,4,2,"When I'm summoned, draw a spell that costs 3 or less from your deck.",,Zap once completed the Azure Way circuit in just under three minutes. She even had to dodge the Jilldaw's shattered hull near the end! The currents that day were AWESOME.,Kudos Productions,Zap Sprayfin,02BW038,Elusive,Attune,NA,,Epic,,Unit,TRUE,2,Rising Tides,
+Bilgewater,,6,4,6,"When I'm summoned, summon a Golden Narwhal for your opponent.",,"The gold that glitters beneath the waves is neither coin nor ingot, but the lustrous horn of the Slaughter Fleet captain's clever adversary.",SIXMOREVODKA,Hunting Fleet,02BW027,NA,NA,NA,,Common,Pirate,Unit,TRUE,2,Rising Tides,
+Bilgewater,,2,4,2,Play: Transform an ally into a random 5 cost follower.,,"""Marvolio? Where... Where are my hands?""
+""I will-a now make-a them appear! Tadaa! Ahem. Ta... daa...!""
+""...WHERE ARE MY HANDS?!""
+""OKAY, TIME-A TO GO! THANK-A YOU ALL SO VERY MUCH!""",Kudos Productions,Mystifying Magician,02BW006,NA,NA,NA,,Rare,,Unit,TRUE,2,Rising Tides,
+Bilgewater,,5,4,2,,,"Though there may be ambiguity surrounding Fizz's temperament and intentions, there's absolutely none when it comes to Longtooth.",SIXMOREVODKA,Longtooth,02BW046T2,Overwhelm,NA,NA,,None,,Unit,FALSE,2,Rising Tides,
+Bilgewater,,0,4,0,"Remove an attacking ally from combat to Rally.
+
+Create a Fizz in your deck.",,"""One jump ahead of you!"" - Fizz",Max Grecke,Fizz's Playful Trickster,02BW046T1,Fast,NA,NA,Fast,None,,Spell,FALSE,2,Rising Tides,
+Bilgewater,,2,4,2,Play: Play a Destiny Card.,I've seen you draw 9+ cards.,"""Now, watch the hands, count the cards, and try to keep up. And just remember...""",SIXMOREVODKA,Twisted Fate,02BW026,Quick Attack,NA,NA,,Champion,Pirate,Unit,TRUE,2,Rising Tides,0
+Bilgewater,,3,4,3,"Each round, the first 3 times you play a card, I play a Destiny Card.",,"""...it ain't gamblin' if you can't lose.""",SIXMOREVODKA,Twisted Fate,02BW026T3,Quick Attack,NA,NA,,None,Pirate,Unit,FALSE,2,Rising Tides,1
+Bilgewater,,0,4,0,"Stun an enemy.
+
+Place that unit into the enemy deck if you have a Nautilus.
+
+Create a Nautilus into your deck.",,"""Drag them down..."" - Nautilus",Kudos Productions,Nautilus' Riptide,02BW053T2,Fast,NA,NA,Fast,None,,Spell,FALSE,2,Rising Tides,
+Bilgewater,,0,4,0,Grant an enemy Vulnerable and summon Longtooth.,,"""Shark!"" - Fizz",Kudos Productions,Chum the Waters,02BW025,Slow,NA,NA,Slow,Common,,Spell,TRUE,2,Rising Tides,
+Bilgewater,,0,4,0,Remove an attacking ally from combat to Rally.,,"""One jump ahead of you!"" - Fizz",Max Grecke,Playful Trickster,02BW051,Fast,NA,NA,Fast,Rare,,Spell,TRUE,2,Rising Tides,
+Bilgewater,,0,4,0,"Stun an enemy.
+
+Place that unit into the enemy deck if you have a Nautilus.",,"""Drag them down..."" - Nautilus",Kudos Productions,Riptide,02BW054,Fast,NA,NA,Fast,Rare,,Spell,TRUE,2,Rising Tides,
+Bilgewater,,0,4,0,"Toss 2.
+
+Draw 2.",,Flotsam doesn't stay afloat for long. Any seafarer worth their salt has to be able to quickly discern valuable cargo from common junk...,Kudos Productions,Salvage,02BW029,Burst,NA,NA,Burst,Common,,Spell,TRUE,2,Rising Tides,
+Bilgewater,,2,4,4,"When I'm summoned, summon a random 1 cost follower and grant it Scout.",,"""Lift the light from Mother Serpent
+To the clouds, up from the waves.
+The sky looks down, with gray eyes earnest,
+A calm reflection of her gaze.
+She smiles, is at peace...""
+- prayer to Nagakaborous",Dao Le,Island Navigator,02BW062,Scout,NA,NA,,Rare,,Unit,TRUE,2,Rising Tides,
+Bilgewater,,4,5,4,,,"""Swear I seen the strangest things over them reefs, Cap'n. Wha's that lunk put in 'em oranges? Tha's what I wanna know..."" - Petty Officer",Kudos Productions,Slippery Waverider,02BW057,Elusive,Attune,NA,,Common,,Unit,TRUE,2,Rising Tides,
+Bilgewater,,0,5,0,"If I'm Tossed, draw me instead.
+
+Deal 5 to ALL units.",,"The deckhands roared as one and hauled the chains, their treasure now just below the calm waters. Little did they know the Seascraw's legendary cannon had one final act in store.",Kudos Productions,Keelbreaker,02BW030T2,Slow,NA,NA,Slow,None,Treasure,Spell,FALSE,2,Rising Tides,
+Bilgewater,,0,5,0,"Create 5 random cards in hand. They cost 0 and are Fleeting.
+
+If I'm Tossed, draw me instead.",,"Captain Finn roared out ""Ye earned this, boys! Told ye the Tithe was nothin' but coward feed!"" Some cheered, but not all. The waters seemed to still, save for the bubbles around the Rancour's hull.",Kudos Productions,Treasure Trove,02BW030T1,Slow,NA,NA,Slow,None,Treasure,Spell,FALSE,2,Rising Tides,
+Bilgewater,,5,5,5,,,"The terrifying beasts burst through the waves and split the hull with vice-like jaws. Though the sailors begged the Bearded Lady for mercy, their captain's greed had already sealed their fate.",SIXMOREVODKA,Vicious Platewyrm,02BW030T4,Fearsome,Deep,NA,,None,Sea Monster,Unit,FALSE,2,Rising Tides,
+Bilgewater,,0,5,0,"If I'm Tossed, draw me instead.
+
+Summon 3 Vicious Platewyrms.",,"The grizzled captain held his shining quarry aloft and roared out ""This'll keep us fer life!"" Heady cheers rang out from the crew, while around their brig, the waters began to churn...",Kudos Productions,Platewyrm Egg,02BW030T3,Slow,NA,NA,Slow,None,Treasure,Spell,FALSE,2,Rising Tides,
+Bilgewater,,4,5,4,Play: Grant an enemy Vulnerable.,,"""I've heard he'll swim miles to find his mark, 'n when he finds 'em, he never misses his shot. Not sure if he's a man or a fish, but it's clear he knows these waters far better'n we do."" - Jagged Butcher",Alex Heath,Razorscale Hunter,02BW021,Scout,NA,NA,,Rare,,Unit,TRUE,2,Rising Tides,
+Bilgewater,,3,5,3,"Nexus Strike: Draw 1.
+
+",,"""Aye aye, they cried, and set off away,
+To see to trouble in fair Nashramae,
+But nature, she turned, and many did die,
+An' the rest are off to see the all-seein' eye!"" - ""The All-Seeing Eye""",Kudos Productions,Abyssal Eye,02BW037,Elusive,Deep,NA,,Rare,Sea Monster,Unit,TRUE,2,Rising Tides,
+Bilgewater,,5,5,5,"When I'm summoned, summon a Powder Keg.",You've damaged the enemy Nexus in 5 different rounds.,"""Don't stare too long, lest he catches you lookin'. And don't speak ill of him, for he hears all Bilgewater's whispers. Here he comes. Chin low. Eyes lower."" - Dreadway deckhand",SIXMOREVODKA,Gangplank,02BW032,Overwhelm,NA,NA,,Champion,Pirate,Unit,TRUE,2,Rising Tides,0
+Bilgewater,,6,5,6,"When I'm summoned or Round Start: Summon a Powder Keg.
+
+Attack: Deal 1 to all enemies and the enemy Nexus.",,"""Seen his eyes enough to know. Ain't nothin' but pure anger there. Someday, the boss'll do to Bilgewater what it did to him."" - Petty Officer",SIXMOREVODKA,Gangplank,02BW032T3,Overwhelm,NA,NA,,None,Pirate,Unit,FALSE,2,Rising Tides,1
+Bilgewater,,0,5,0,"Deal 2 to an enemy.
+
+If this kills it, deal 4 to the enemy Nexus.",,"""I always shoot first."" - Miss Fortune",Kudos Productions,Double Up,02BW031,Fast,NA,NA,Fast,Rare,,Spell,TRUE,2,Rising Tides,
+Bilgewater,,4,6,4,"Play: Obliterate an enemy with less Health than me.
+
+",,"""I was sailing just the other day,
+Out beyond Bilgewater Bay,
+When, from the depths, she came my way,
+the Wing-Eared Sunken Lady..."" - ""Ballad of the Wing-Eared Sunken Lady""",Kudos Productions,Devourer of the Depths,02BW056,Deep,NA,NA,,Epic,Sea Monster,Unit,TRUE,2,Rising Tides,
+Bilgewater,,4,6,5,"Plunder: Heal allies and your Nexus 3, then Rally.
+
+",,"""All sailors think they so tough! Grr this. Yarr that. Yes yes. Very good. But you still need orange! Make skin pretty, make teeth stay, and make me happy. So you eat, or you swim. Easy.""",SIXMOREVODKA,Citrus Courier,02BW017,NA,NA,NA,,Rare,,Unit,TRUE,2,Rising Tides,
+Bilgewater,,6,6,5,"When I'm summoned, grant all enemies Vulnerable.",,"There may be no law in Bilgewater, yet a handful of brave souls within the city's boisterous walls are unafraid of enforcing their own idea of justice.",SIXMOREVODKA,Sheriff Lariette Rose,02BW035,NA,NA,NA,,Epic,,Unit,TRUE,2,Rising Tides,
+Bilgewater,,0,6,0,Plunder: Place a follower in play into your hand.,,"""Yer workin' fer us now!"" - Petty Officer",Kudos Productions,Strong-arm,02BW003,Slow,NA,NA,Slow,Rare,,Spell,TRUE,2,Rising Tides,
+Bilgewater,,7,7,5,"When I'm summoned, Toss 2 and create 2 Treasures in your deck.
+
+",,"""These days, there's more treasure 'neath the waves than above 'em, I wager. Would be easy enough pickins, if 'tweren't for her."" - Jagged Butcher",Kudos Productions,Shipwreck Hoarder,02BW030,Deep,NA,NA,,Epic,Sea Monster,Unit,TRUE,2,Rising Tides,
+Bilgewater,,3,7,4,Plunder: Reduce the cost of allies in your hand and deck by 2.,,"""Come with us on a musical journey! Enjoy tunes from across Runeterra! Just remember--coin's required for entry, and tips are deeply appreciated..."" - Show promoter",Chin LikHui,Smooth Soloist,02BW050,Elusive,NA,NA,,Rare,,Unit,TRUE,2,Rising Tides,
+Bilgewater,,3,7,7,"When I'm summoned, draw a Miss Fortune.
+
+While I'm attacking, all your spells and skills deal 1 extra damage.",,There's no mistaking the Syren. Her broad pearly sails and polished woodwork leave her as sleek and decorated as the captain at her helm.,SIXMOREVODKA,The Syren,02BW015,Scout,NA,NA,,Epic,Pirate,Unit,TRUE,2,Rising Tides,
+Bilgewater,,0,7,12,,"When you are Deep.  When I level up, copy Tossed allies that cost 4+ into your deck.","""'Twas an anchor what broke the Rancour. Pulled Finn down, an' all. Just a handful of us left now, but night's coming... and the cold. I'm sorry, Ma. You were right. The Titan lives."" - Recovered note",SIXMOREVODKA,Nautilus,02BW053,Tough,Fearsome,NA,,Champion,,Unit,TRUE,2,Rising Tides,0
+Bilgewater,,13,7,13,Sea Monster allies cost 4 less.,,"All pay the tithe, one way or another.",SIXMOREVODKA,Nautilus,02BW053T1,Tough,Fearsome,NA,,None,,Unit,FALSE,2,Rising Tides,1
+Bilgewater,,0,7,0,"This round, grow all allies' Power and Health to the number of spells you've cast this game. ",,The currents and tides around Bilgewater are rightly feared for their strength and sudden turns. But no sailor knows the true power within those waters.,Kudos Productions,Mind Meld,02BW042,Slow,NA,NA,Slow,Epic,,Spell,TRUE,2,Rising Tides,
+Bilgewater,,0,7,0,"Toss 3.
+
+Deal 7 to a unit.",,"""If it sinks 'em, it was worth it."" - Bilgewater saying",Kudos Productions,Scrapshot,02BW059,Fast,NA,NA,Fast,Rare,,Spell,TRUE,2,Rising Tides,
+Bilgewater,,6,8,4,Plunder: Cast Cannon Barrage 6 times on randomly targeted enemies.,,"""Sail past the sailors, sail past the wreck,
+The battle's already over.
+The smoke's cleared the water, their captain's met Rex,
+And their ship's ripped an' torn timber."" - ""Home With You, Sally""",MAR Studio,Riptide Rex,02BW028,NA,NA,NA,,Epic,,Unit,TRUE,2,Rising Tides,
+Bilgewater,,4,8,6,"When I'm summoned, draw a Gangplank. Double all damage dealt by your skills, spells and allies.",,"""Ohhhh, best say yer farewells and draw down the sails,
+For the Dreadway's a-comin'.
+We're off to the deep, where graves're replete,
+'Cuz the Dreadway's a-comin'!"" - ""The Dreadway's a-Comin'""",SIXMOREVODKA,The Dreadway,02BW002,Fearsome,Missing Translation,NA,,Epic,Pirate,Unit,TRUE,2,Rising Tides,
+Bilgewater,,0,0,0,Deal 2 to an ally to deal 2 to the enemy Nexus.,,"""Daub 'em with your blood, and set the sharks loose."" - Jack, the Winner",Kudos Productions,Sleep with the Fishes,03BW006T1,Slow,Fleeting,NA,Slow,None,,Spell,FALSE,3,Call Of The Mountain,
+Bilgewater,,2,1,4,Play: Deal 2 to me.,,"""RING THE BELL, WILL YA?! AH'LL SHOW THAT POINTY FART WHY AH'VE GOT ALL MA NICKNAMES, AYE. 'EIGHT PUNCH PABLO', 'THE CRACKIN' KRAKEN', 'THE TENTACLED TERROR'! YOUR WEE STINGER'S GONNA BE CRYING FOR YA MAMMIE BY THE TIME AH'M DONE WI' YA!"" - Boxtopus",SIXMOREVODKA,Crusty Codger,03BW015,NA,NA,NA,,Common,,Unit,TRUE,3,Call Of The Mountain,
+Bilgewater,,0,1,0,Deal 2 to an ally to grant 2 enemies Vulnerable.,,"""You gonna tell me where you got those 'extra kegs', Slim? Huh? Otherwise, we could play a lil' tug-of-war between your tongue and Jimbo's arm. And buddy... I ain't bettin' on you."" - Wise Fry",Kudos Productions,Shakedown,03BW009,Burst,NA,NA,Burst,Rare,,Spell,TRUE,3,Call Of The Mountain,
+Bilgewater,,0,2,0,"Tahm Kench swallows an enemy unit. It strikes him, then he Captures it.",,"""You had a chance to walk away. Instead, you're the fool who let me in..."" - Tahm Kench",Kudos Productions,An Acquired Taste,03BW004T2,Slow,Fleeting,NA,Slow,None,,Spell,FALSE,3,Call Of The Mountain,
+Bilgewater,,0,2,0,"Summon a Powder Monkey.
+
+Plunder: Summon another at the next Round Start.",,"""Aw... d'ye think they're cute? WELL, THEY'RE NOT. They get into everything, they're messier than a seasick courier, an' THEY WON'T BLOODY SHUT UP. NO MONKEYS ON THE SHIP. THAT'S THE END OF IT."" - Petty Officer",Kudos Productions,Monkey Business,03BW014,Slow,NA,NA,Slow,Common,,Spell,TRUE,3,Call Of The Mountain,
+Bilgewater,,3,2,4,Play: Deal 3 to me.,,"""Sure, Pablo might be in a bit of a 'dry patch'--heh--and, yeah, he's taken his fair share of punches... but ya know what? Ain't nobody else around here getting octokills, pal."" - Wise Fry",Grafit Studio,Boxtopus,03BW007,Challenger,NA,NA,,Common,,Unit,TRUE,3,Call Of The Mountain,
+Bilgewater,,2,2,3,Play: Deal 1 to me and an ally to draw 1.,,"""Ol' Babs has had a few mishaps. Killed a few locals in her time, but I s'pose it helps lend her an air of authenticity."" - Lounging Lizard",Grafit Studio,Fortune Croaker,03BW008,NA,NA,NA,,Common,,Unit,TRUE,3,Call Of The Mountain,
+Bilgewater,,0,3,0,An ally Captures another ally and gains the captured ally's stats.,,"""Step inside, friend, and all that you desire shall be yours in perpetuity."" - Tahm Kench",Kudos Productions,Bayou Brunch,03BW010,Slow,NA,NA,Slow,Common,,Spell,TRUE,3,Call Of The Mountain,
+Bilgewater,,0,3,0,"An ally Captures another ally and gains the captured ally's stats.
+
+Create a Tahm Kench in your deck.",,"""Step inside, friend, and all that you desire shall be yours in perpetuity."" - Tahm Kench",Kudos Productions,Tahm Kench's Bayou Brunch,03BW004T4,Slow,NA,NA,Slow,None,,Spell,FALSE,3,Call Of The Mountain,
+Bilgewater,,3,3,5,Round Start: Deal 2 to me.,,"""Ah, people are stupid! Give them cold drink and warm chair, and they tell all kinds of secrets to friendly faces. And who has friendlier face than young Leonard, hmm?"" - Fortune Croaker",Grafit Studio,Lounging Lizard,03BW002,Elusive,NA,NA,,Common,,Unit,TRUE,3,Call Of The Mountain,
+Bilgewater,,0,3,0,"Deal 1 to a unit.
+
+Then summon Powder Kegs equal to the amount of damage dealt.",,"""Young Gerent raised the alarm right afore the first one blew. Our hull rocked, the jib caught flame, but the Jilldaw held. Thought that was that, but as I followed Gerent's gaze out to sea, I saw me four more rowboats comin' our way, all loaded with powder."" - Jilldaw survivor",Kudos Productions,Boomship,03BW016,Slow,NA,NA,Slow,Rare,,Spell,TRUE,3,Call Of The Mountain,
+Bilgewater,,0,3,0,"Round Start: Toss 1. If you are Deep, destroy me to summon a random Sea Monster. ",,"Every day, locals wander through the Slaughter Docks to see the horrors Bilgewater's hunters have hauled up from the depths. The beasts are usually dead. Usually.",SIXMOREVODKA,The Slaughter Docks,03BW001,Landmark,NA,NA,,Epic,,Landmark,TRUE,3,Call Of The Mountain,
+Bilgewater,,2,4,6,Round Start: Create a An Acquired Taste in hand.,"I've Captured 3+ units. When I level up, Obliterate my Captured enemies and release my allies.","""My friend, I know that expression. I can see you feelin' like the cards you're holdin' ain't the ones you deserve. You got a desire for the finer things, don'tcha? Perhaps you'll allow me to satisfy your hunger, let you savor all that you ever desired. All I need is your name, scratched on my paper... and you, my friend, will be satisfied for life.""",SIXMOREVODKA,Tahm Kench,03BW004,NA,NA,NA,,Champion,,Unit,TRUE,3,Call Of The Mountain,0
+Bilgewater,,3,4,7,"Round Start: Create a An Acquired Taste in hand.
+
+Attack: Obliterate my Captured enemies and release my allies.",,"""You struck a deal, my friend, and though you will undoubtedly bask in its benefits, remember... there will be a time when I get my fill, too.""",SIXMOREVODKA,Tahm Kench,03BW004T3,NA,NA,NA,,None,,Unit,FALSE,3,Call Of The Mountain,1
+Bilgewater,,0,4,0,Summon a Powder Monkey and give a random enemy Vulnerable this round for each time you've activated Plunder this game. ,,"""Oh, those little sootballs aren't so bad. Here's a tip for you--they like fireworks. So, you take out an enemy's gunpowder stores, and the monkeys, well, they'll do the rest."" - Miss Fortune",Kudos Productions,Powder Pandemonium,03BW020,Slow,NA,NA,Slow,Epic,,Spell,TRUE,3,Call Of The Mountain,
+Bilgewater,,5,5,5,Round Start: Create a Sleep with the Fishes in hand.,,"Years in the boxing ring taught Jack valuable lessons. He learned that if his opponent can bleed, they can fear. He learned the power of a silent stare. He learned the power of uncontrolled violence.",JiHun Lee,"Jack, the Winner",03BW006,NA,NA,NA,,Epic,,Unit,TRUE,3,Call Of The Mountain,
+Bilgewater,,3,6,8,Play: Deal 1 to all other allies and grant me +1|+0 for each of them.,,The rise to power is often a violent business... but it's not normally this freakin' sloppy.,Grafit Studio,Wise Fry,03BW003,Overwhelm,Vulnerable,NA,,Rare,,Unit,TRUE,3,Call Of The Mountain,
+Bilgewater,,2,6,1,"Reduce my cost by 1 for each spell you've cast this game.
+
+When I'm summoned, create in hand a random 1 cost spell from your regions.",,"""Stand stwait, noobie! Your mishun is to infiltrate behind emenee lines, plant as many bubbels as you can, an' tell us evewythin' you SEE! E-VE-WEE-THIN'. DO YOU UNNASTAN'?!"" - Admiwal Shelly, Shellshocker",SIXMOREVODKA,Wiggly Burblefish,03BW017,Elusive,NA,NA,,Epic,,Unit,TRUE,3,Call Of The Mountain,
+Bilgewater,,0,8,0,Place a unit or landmark into its deck.,,"""Now, I delivered to you exactly what you wanted, friend. I never said it would last forever."" - Tahm Kench",Kudos Productions,Sunk Cost,03BW005,Slow,NA,NA,Slow,Rare,,Spell,TRUE,3,Call Of The Mountain,
+Bilgewater,,0,0,0,An allied Lurker strikes an enemy.,,"""They hurt. I know."" - Pyke",Kudos Productions,Frenzied Feast,04BW007T1,Skill,NA,NA,Skill,None,,Ability,FALSE,4,Empires Of The Ascended,
+Bilgewater,,0,1,0,Create a Snapjaw Swarm on top of your deck.,,"""If it were up ta me, I'd have a jaull-fish take me afore them bloody things. Sooner go fast than be left screamin' fer me mates to stick me while I'm eaten alive."" - Jagged Butcher",Kudos Productions,Bloodbait,04BW004,Burst,NA,NA,Burst,Common,,Spell,TRUE,4,Empires Of The Ascended,
+Bilgewater,,0,1,0,"When allies attack, before Lurk tries to activate, obliterate the top card of your deck if it doesn't have Lurk.",,"Bilgewater's more treacherous coves soon became home to all manner of sea beasts. There they lie, waiting for the next foolhardy crew to ignore the harbormaster's warnings.",MAR Studio,Ripper's Bay,04BW009,Lurk,Landmark,NA,,Rare,,Landmark,TRUE,4,Empires Of The Ascended,
+Bilgewater,,1,1,2,,,"""Might not look much, aye, but they're eager for blood. And if you let 'em at you, they'll know where to find it when they're bigger. Best wear yer gloves."" - Jaull Hunters",Kudos Productions,Sharkling,04BW015,Lurk,NA,NA,,Common,Lurker,Unit,TRUE,4,Empires Of The Ascended,
+Bilgewater,,0,1,0,"Grant an enemy Vulnerable. If it's already Vulnerable, the strongest ally starts a free attack Challenging it.",,"""You've got a name, and I've got a list."" - Pyke",Kudos Productions,The List,04BW006,Slow,NA,NA,Slow,Rare,,Spell,TRUE,4,Empires Of The Ascended,
+Bilgewater,,0,1,0,Deal 1 to anything.,,"""A little spark, eh? I've just the thing..."" - Gangplank",Kudos Productions,"Knock 'Em Down
+",04BW014T1,Slow,Fleeting,NA,Slow,None,,Spell,FALSE,4,Empires Of The Ascended,
+Bilgewater,,1,2,2,Play: Grant an enemy Vulnerable.,,"When a hammersnout breaks a ship's keel, it seems to do it for sheer entertainment. They rarely devour the crew they stranded, instead leaving a feast for the creatures that follow.",JiHun Lee,Redfin Hammersnout,04BW001,Lurk,NA,NA,,Common,Lurker,Unit,TRUE,4,Empires Of The Ascended,
+Bilgewater,,0,2,2,Play: I start a free attack.,,"""Drip, drop, drip, drop, the blood splashes down,
+Swim, swim, comes the swarm, better now to drown,
+Snip, snap, go the teeth, and we all scream,
+To the deep, off we sleep, for forever dreams!""
+- Bilgewater nursery rhyme",JiHun Lee,Snapjaw Swarm,04BW003,Lurk,NA,NA,,Common,Lurker,Unit,TRUE,4,Empires Of The Ascended,
+Bilgewater,,0,2,0,"An ally strikes an enemy, then moves to the top of your deck.
+Create a Pyke in your deck.",,"""Little parting gift..."" - Pyke",Kudos Productions,Pyke's Bone Skewer,04BW005T1,Fast,NA,NA,Fast,None,,Spell,FALSE,4,Empires Of The Ascended,
+Bilgewater,,0,2,0,"An ally strikes an enemy, then moves to the top of your deck.",,"""Little parting gift..."" - Pyke",Kudos Productions,Bone Skewer,04BW002,Fast,NA,NA,Fast,Epic,,Spell,TRUE,4,Empires Of The Ascended,
+Bilgewater,,0,2,0,"Summon a Powder Keg.
+Create a Knock 'Em Down in hand.
+",,"""Done as you asked, Cap'n. Give 'er a little spark and she'll kick back alright."" - Dreadway Deckhand",Kudos Productions,Line 'Em Up,04BW014,Burst,NA,NA,Burst,Common,,Spell,TRUE,4,Empires Of The Ascended,
+Bilgewater,,0,4,0,"For the rest of the round, when you damage the enemy Nexus, Nab 1.",,"""So, what are you willin' to wager, friend?"" - Tahm Kench",Kudos Productions,Loaded Dice,04BW011,Slow,NA,NA,Slow,Epic,,Spell,TRUE,4,Empires Of The Ascended,
+Bilgewater,,0,4,0,"Draw a Treasure. If there aren't any to draw, create 2 Treasures in your deck instead.",,"""We're rich!"" - Jagged Butcher",Kudos Productions,Lost Riches,04BW008,Burst,NA,NA,Burst,Rare,,Spell,TRUE,4,Empires Of The Ascended,
+Bilgewater,,2,4,3,"When I Lurk, transform me into Death From Below.",Allied Pykes have dealt 15+ damage.,"""...the visions are back again. I see his desperate eyes looking up at me whilst the jaull-fish closed its maw around him. We tried pulling, but the ship was too small, and the beast too big. I had no choice. I had to cut his line. I had to.""
+- Blood-soaked letter",SIXMOREVODKA,Pyke,04BW005,Lurk,Quick Attack,NA,,Champion,Lurker,Unit,TRUE,4,Empires Of The Ascended,0
+Bilgewater,,3,4,4,"When I Lurk, transform me into Death From Below.
+When I kill an enemy, I strike the weakest enemy.",,"First he came for his old crew, then other captains, then cheaters, gamblers, and drunkards. Pyke's craving for revenge slowly gave way to a newfound lust for murder. Now, instead of only listing those who once wronged him, his growing manifest only illustrates what Pyke has become.",SIXMOREVODKA,Pyke,04BW005T2,Lurk,Quick Attack,NA,,None,Lurker,Unit,FALSE,4,Empires Of The Ascended,1
+Bilgewater,,0,4,0,Summon Pyke striking an enemy.,,"""Breach!"" - Pyke",SIXMOREVODKA,Death From Below,04BW005T3,Lurk,Fast,NA,Fast,None,,Spell,FALSE,4,Empires Of The Ascended,
+Bilgewater,,0,5,0,"When I count down, summon a random 1 cost follower.
+Countdown 2: Grant 1 cost allies +2|+1 and Fearsome.",,"""Ye think ye've got what it takes to call yourself a Hook, do ye? We'll see, ye tyke. By the time we're done with ye, ye'll either be worth yer weight, or ye'll be weighed down below the waves, bait fer the beasts!"" - Petty Officer",Kudos Productions,Reaver's Row,04BW013,Landmark,NA,NA,,Rare,,Landmark,TRUE,4,Empires Of The Ascended,
+Bilgewater,,3,5,3,"Play: Cast Cannon Barrage on Keyword Random.png randomly targeted enemies for each card you've drawn this round, up to 5 times.",,"""...Rex? - Petty Officer",Kudos Productions,Ruined Rex,04BW016,NA,NA,NA,,Rare,,Unit,TRUE,4,Empires Of The Ascended,
+Bilgewater,,0,6,0,"Plunder: I cost 3 less.
+Deal 5 to a unit.",,"""The beast's been stuck already, lads! Now stick it again 'til it stops thrashin' and the waters've lost their blue!"" - Jagged Taskmaster",Kudos Productions,Monster Harpoon,04BW010,Fast,NA,NA,Fast,Common,,Spell,TRUE,4,Empires Of The Ascended,
+Bilgewater,,2,8,7,Play: Each Lurker ally strike a random enemy.,,"""Ain't nothin' like a jaull-fish to show you who you can trust, and who you can kill."" - Pyke",MAR Studio,Jaull-fish,04BW007,Lurk,NA,NA,,Epic,Lurker,Unit,TRUE,4,Empires Of The Ascended,
+Bilgewater,,0,2,0,Deal 2 randomly to an enemy or the enemy Nexus and create a Flow in hand.,,"""Heed the tide's temper..."" -Nami",Kudos Productions,Ebb,05BW006,Fast,NA,NA,Fast,Common,,Spell,TRUE,5,Beyond The Bandlewood,
+Bilgewater,,0,2,0,"Heal an ally or your Nexus 2, and create an Ebb and Flow in hand.",,"""...And cherish the swell's calm."" - Nami",Kudos Productions,Flow,05BW006T2,Burst,Fleeting,NA,Burst,None,,Spell,FALSE,5,Beyond The Bandlewood,
+Bilgewater,,0,2,0,Deal 2 randomly to an enemy or the enemy Nexus and heal an ally or your Nexus 2.,,"""I decide what the tide will bring."" - Nami",Kudos Productions,Ebb and Flow,05BW006T1,Fast,Fleeting,NA,Fast,None,,Spell,FALSE,5,Beyond The Bandlewood,
+Bilgewater,,3,2,2,"When I'm summoned, if you've cast a spell this round, grant me Elusive.",,"""The ocean believes that the wave will return,
+gives trust to the ebb, to the flow, to the churn.
+So 'ere the wave crashes against the shore,
+the ocean delights in the crest's bold roar.""
+- A verse from 'Serenade for the Tidecaller'",Kudos Productions,Marai Songstress,05BW013,NA,NA,NA,,Rare,Marai,Unit,TRUE,5,Beyond The Bandlewood,
+Bilgewater,,2,2,1,"When I'm summoned, summon a random 1 cost follower.",,"The Marai rarely desire to venture far from home. But Ai'la was born with curiosity in her heart--and though she is bound by duty to her tribe, she spends each waking moment dreaming of the day she can truly be free.",Kudos Productions,Marai Warden,05BW001,NA,NA,NA,,Rare,Marai,Unit,TRUE,5,Beyond The Bandlewood,
+Bilgewater,,4,3,3,,,"""Sure, a few of 'em hunt us, like they hunt everything. But y'know, most landwalkers I meet are just looking to enjoy their time in the big blue, same as us. We're all just people.""",Concept Art House,Journeying Sandhopper,05BW002,Attune,NA,NA,,Common,,Unit,TRUE,5,Beyond The Bandlewood,
+Bilgewater,,2,3,3,"When you cast a spell, grant +1|+0 to the weakest other ally that isn't Immobile.",You've gained 8+ spell mana this game.,"""Have you said your goodbyes, young Tidecaller?""
+""Yes, greatmother.""
+""Are you afraid?""
+""...Yes, greatmother.""
+""Good. To be afraid is to be cautious. But trust yourself, as we trust you. Now, go. And may the currents keep you.""",SIXMOREVODKA,Nami,05BW005,Attune,Imbue,NA,,Champion,Marai,Unit,TRUE,5,Beyond The Bandlewood,0
+Bilgewater,,3,3,4,"When you cast a spell, grant +2|+1 to the weakest other ally that isn't Immobile.",,"""Do you think she's far along in her journey?""
+""We can only hope, Tama.""
+""I can see her now... Beautiful eyes glowing in the light of the moon, the shine of saltwater glistening on her scales.""
+""This burden... the fate of our people. It should not be hers alone.""
+""She is doing her part, as we are doing ours, Loto. All we can do is believe in her, and love her with all our hearts.""",SIXMOREVODKA,Nami,05BW005T1,Attune,Imbue,NA,,None,Marai,Unit,FALSE,5,Beyond The Bandlewood,1
+Bilgewater,,0,3,0,Deal 1 to two different randomly targeted enemies and create a Crashing Wave in your deck.,,"""Oceans spill forth!"" - Nami",Kudos Productions,Tidal Wave,05BW003,Slow,NA,NA,Slow,Rare,,Spell,TRUE,5,Beyond The Bandlewood,
+Bilgewater,,0,3,0,Deal 2 to four different randomly targeted enemies and create a Colossal Wave in your deck.,,"""Roiling seas engulf them!"" - Nami",Kudos Productions,Crashing Wave,05BW003T1,Slow,NA,NA,Slow,None,,Spell,FALSE,5,Beyond The Bandlewood,
+Bilgewater,,0,3,0,Deal 4 to all enemies and the enemy Nexus.,,"""Rolling tides, heed my call!"" - Nami",Kudos Productions,Colossol Wave,05BW003T2,Slow,NA,NA,Slow,None,,Spell,FALSE,5,Beyond The Bandlewood,
+Bilgewater,,2,4,3,"When you cast a spell, give me +2|+0 this round.",,"""Many of our tribe find Loto somewhat unnerving. They see only a tireless fighter, and the distance in his troubled gaze. But I know what's truly in his heart--fear that he is not strong enough to save us... and extraordinary love."" - Tama, Marai Songstress",Envar Studio,Abyssal Guard,05BW008,Fearsome,Imbue,NA,,Common,,Unit,TRUE,5,Beyond The Bandlewood,
+Bilgewater,,3,4,3,"on
+When I'm summoned, create 5 random 6+ cost spells in your deck and lower their cost to 3.",,"The Marai's ancestral home is protected by the celestial light of a moonstone. Every hundred years, its light begins to wane, and a new Tidecaller is tasked with finding another--for without it, the Marai people would be plunged into darkness, and fall prey to the horrors that lurk in the depths.",Kudos Productions,Marai Greatmother,05BW010,NA,NA,NA,,Common,Marai,Unit,TRUE,5,Beyond The Bandlewood,
+Bilgewater,,3,5,3,"For every 2 spells you cast in a round, grant other allies +1|+1.",,"""LISTEN HERE, SOWDIER. I'LL HAVE YOU KNOW I HAVE OVA FWEE-HUNDWED CONFIRMED KWILLS AND I'M DA TOP ADMIWAL IN ALL DA MAWINE'S FORCES SO WHEN I SAY SWIM, YOU BETTA SWIM, OKAY? OKAY THANK YOU!""",Kudos Productions,Fleet Admiral Shelly,05BW011,Attune,Elusive,NA,,Epic,,Unit,TRUE,5,Beyond The Bandlewood,
+Bilgewater,,4,6,5,"If you would get a mana gem, instead refill your spell mana.
+When you cast a spell, create in hand a random spell that costs 3 or less and give it Fleeting.",,"To the Marai, the Leo'lei is a herald of great change. It is said each flourish of its graceful wings influences the flow of the tides.",Michael Ivan,Avatar of the Tides,05BW004,Imbue,NA,NA,,Epic,,Unit,TRUE,5,Beyond The Bandlewood,
+Bilgewater,Bandle City,6,7,6,"When allies attack, spend 1 spell mana to summon an attacking Short Tooth",,"The Trainer's routine is the same each night. Fish 'n ale for supper, a quick puff of his bubblepipe, followed by kisses on snouts and a story for his sharks before bedtime.",Kudos Productions,Shark Trainer,05BC010,Attune,NA,NA,,Rare,,Unit,TRUE,5,Beyond The Bandlewood,
