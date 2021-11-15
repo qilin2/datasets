@@ -58,4 +58,8 @@ Sources:
 The [jsonlite](https://cran.r-project.org/web/packages/jsonlite/index.html) package, a R library, is the gem that extracted and converted all of the provided .json files within the API. Other libraries such as [dplyr](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html) and [janitor](https://cran.r-project.org/web/packages/janitor/index.html) were used for data cleaning purposes.  The [rvest](https://cran.r-project.org/web/packages/rvest/rvest.pdf) package was used for web scraping.
 
 
+### FAQs
+- I am not affiliated with Riot Games in any way, shape, or form. 
+- This is just a project for personal interest and curiosity.
+
  
