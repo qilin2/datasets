@@ -62,9 +62,16 @@ The [jsonlite](https://cran.r-project.org/web/packages/jsonlite/index.html) pack
 - I am not affiliated with Riot Games in any way, shape, or form. 
 - This is just a project for personal interest and curiosity.
 
-</p align = 'center' > 
+<p align 'center'>
+-----
+</p>
+
+
+<p align = 'center' > 
 <b> #2. Berkshire Hathaway Stock Price </b>
 </p>
+
+![berkshire.png](/images/berkshire_hathway.png)
 
 ### Context
 
