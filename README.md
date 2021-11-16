@@ -62,4 +62,45 @@ The [jsonlite](https://cran.r-project.org/web/packages/jsonlite/index.html) pack
 - I am not affiliated with Riot Games in any way, shape, or form. 
 - This is just a project for personal interest and curiosity.
 
+</p align = 'center' > 
+<b> #2. Berkshire Hathaway Stock Price </b>
+</p>
+
+### Context
+
+Berkshire Hathaway Inc. is an American multinational conglomerate holding company headquartered in Omaha, Nebraska, United States. The company wholly owns GEICO, Duracell, Dairy Queen, BNSF, Lubrizol, Fruit of the Loom, Helzberg Diamonds, Long & Foster, FlightSafety International, Shaw Industries, Pampered Chef, Forest River, and NetJets, and also owns 38.6% of Pilot Flying J; and significant minority holdings in public companies Kraft Heinz Company (26.7%), American Express (18.8%), The Coca-Cola Company (9.32%), Bank of America (11.9%), and Apple (6.3%).
+
+Beginning in 2016, the company acquired large holdings in the major US airline carriers, namely United Airlines, Delta Air Lines, Southwest Airlines, and American Airlines, but sold all of its airline holdings early in 2020. Berkshire Hathaway has averaged an annual growth in book value of 19.0% to its shareholders since 1965 (compared to 9.7% from the S&P 500 with dividends included for the same period), while employing large amounts of capital, and minimal debt.
+
+**The company is known for its control and leadership by Warren Buffett**, who serves as chairman and chief executive, and Charlie Munger, the company's vice-chairman. In the early part of his career at Berkshire, Buffett focused on long-term investments in publicly traded companies, but more recently he has more frequently bought whole companies. Berkshire now owns a diverse range of businesses including confectionery, retail, railroads, home furnishings, encyclopedias, manufacturers of vacuum cleaners, jewelry sales, manufacture and distribution of uniforms, and several regional electric and gas utilities.
+
+According to the Forbes Global 2000 list and formula, Berkshire Hathaway is the **eighth-largest public company** in the world, the tenth-largest conglomerate by revenue, and the largest financial services company by revenue in the world.
+
+As of August 2020, Berkshire's Class B stock is the seventh-largest component of the S&P 500 Index (which is based on free-float market capitalization) and the company is famous for having the most expensive share price in history with Class A shares costing around $400,000 each. This is because there has never been a stock split in its Class A shares and Buffett stated in a 1984 letter to shareholders that he does not intend to split the stock.
+
+[Official](https://www.berkshirehathaway.com/) | [Wikipedia](https://en.wikipedia.org/wiki/Berkshire_Hathaway) | [Britannica](https://www.britannica.com/topic/Berkshire-Hathaway) | [Who is Warren Buffett?](https://en.wikipedia.org/wiki/Warren_Buffett)
+
+### Content
+
+Stock price data of Berkshire Hathaway, both Class A and Class B.
+Contains 8 fields
+- 1 Date
+- 1 String
+- 6 Decimals
+
+### Acknowledgements
+
+Data:
+- [BRK-A](https://finance.yahoo.com/quote/BRK-A/)
+- [BRK-B](https://finance.yahoo.com/quote/BRK-B/)
+
+
+### Data Extraction
+
+tidyquant, dplyr, and purrr packages from R.
+
+### FAQs
+- I am not affiliated in any way, shape, or form with Berkshire Hathway.
+- For practice purposes only.
+
  
