@@ -71,7 +71,9 @@ The [jsonlite](https://cran.r-project.org/web/packages/jsonlite/index.html) pack
 <b> #2. Berkshire Hathaway Stock Price </b>
 </p>
 
-![berkshire.png](/images/berkshire_hathway.png)
+<p align="center">
+  <img src="https://github.com/qilin2/datasets/blob/main/images/berkshire_hathaway.png" />
+</p>
 
 ### Context
 
