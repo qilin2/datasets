@@ -62,8 +62,8 @@ The [jsonlite](https://cran.r-project.org/web/packages/jsonlite/index.html) pack
 - I am not affiliated with Riot Games in any way, shape, or form. 
 - This is just a project for personal interest and curiosity.
 
-<p align 'center'>
------
+<p align = 'center'>
+ <b> ---------------------------------------------------------------------------------------------------------------------- </b>
 </p>
 
 
@@ -112,4 +112,43 @@ tidyquant, dplyr, and purrr packages from R.
 - I am not affiliated in any way, shape, or form with Berkshire Hathway.
 - For practice purposes only.
 
+<p align = 'center'>
+ <b> ---------------------------------------------------------------------------------------------------------------------- </b>
+</p>
+
+<p align = 'center'>
+ <b> <font size = '5'> #3. Arcane League of Legends: Animated Series </font> </b>
+ </p>
+ 
+<p align = 'center'>
+ <img src = 'https://github.com/qilin2/datasets/blob/main/images/jinx.jpeg'/>
+ </p>
+ 
+### Context
+Arcane is a 2021 French-American animated television series that is set in the League of Legends universe. The show is produced by Riot Games and Fortiche Production and streamed on Netflix. Set in utopian Piltover and the oppressed underground of Zaun, the story follows the origins of two iconic League of Legends' champions-and the power that will tear them apart. Set in the past, it retells the origin stories of several characters from Piltover and Zaun. Like the game which it is based on, Arcane is aimed at a "16+" audience and deals with some more adult subject matter.
+
+[Trailer](https://www.youtube.com/watch?v=4Ps6nV4wiCE&vl=en) | [IMBD](https://www.imdb.com/title/tt11126994/) | [Riot Games](https://www.riotgames.com/en) | [Fortiche Production](https://www.forticheprod.com/) | [League of Legends](https://www.leagueoflegends.com/en-us/)
+
+### Content
+This dataset contains 7 data fields: 2 int, 3 str, and 2 bool
+Data fields:
+- Str Type
+  - track_title
+  - artists
+  - lyrics
+- Int Type
+  - track_number
+  - Act
+- Bool Type
+  - hotness
+  - instrumental
+
+### Acknowledgements
+This dataset was created by me with the [LyricsGenius](https://pypi.org/project/lyricsgenius/) API.
+
+
+### FAQs
+- I am not in affiliated in any way, shape, or form with Riot Games, Fortiche Production, and Genius.
+- This project is just for practice purposes only and self-interest.
+- #TeamJinx
  
