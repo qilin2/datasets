@@ -14,7 +14,8 @@ Legends of Runeterra has been well-received by critics, who point to its generou
 [Official](https://playruneterra.com/en-us/) | [Wikipedia](https://en.wikipedia.org/wiki/Legends_of_Runeterra) | [Gameplay](https://www.youtube.com/watch?v=LIcrGl2L7M8) 
 [Explore the Universe of Runeterra!](https://universe.leagueoflegends.com/en_US/)
 
-
+### Updates
+12/08/2021: Added Magic Misadventures Expansion
 
 ### Content
 Attributes
