@@ -152,4 +152,44 @@ This dataset was created by me with the [LyricsGenius](https://pypi.org/project/
 - I am not in affiliated in any way, shape, or form with Riot Games, Fortiche Production, and Genius.
 - This project is just for practice purposes only and self-interest.
 - #TeamJinx
+
+
+<p align = 'center'>
+ <b> ---------------------------------------------------------------------------------------------------------------------- </b>
+</p>
+
+<p align = 'center'>
+<b> <font size = '5'> 4. Starlink Satellite Launches </font> </b>
+</p>
+
+<p align = 'center'>
+<img src = 'https://github.com/qilin2/datasets/blob/main/images/starlink_logo.jpg'>
+</p>
  
+### Context
+Starlink is a satellite internet constellation operated by SpaceX providing satellite Internet access to most of the Earth. The constellation consists of over 1600 satellites in mid-2021, and will eventually consist of many thousands of mass-produced small satellites in low Earth orbit (LEO), which communicate with designated ground transceivers. While the technical possibility of satellite internet service covers most of the global population, actual service can be delivered only in countries that have licensed SpaceX to provide service within any specific national jurisdiction. As of November 2021, the beta service offering is available in 21 countries.
+
+[Official](https://www.starlink.com/) | [Tracker](https://findstarlink.com/) | [Wikipedia](https://en.wikipedia.org/wiki/Starlink)
+
+### Content
+This dataset contains 11 data fields provided on Wikipedia.
+Data Fields:
+- mission_number
+- mission_name
+- satellite_ver
+- launch_date
+- launch_vehicle
+- orbit_altitude
+- orbit_inclination
+- satellite_deployed
+- satellite_working
+- launch_outcome
+- launch_sites
+
+
+### Acknowledgements
+This dataset was created by me via webscraping techinques with the rvest and stringr packages.
+
+### FAQS
+- I am not in affiliated in any way, shape, or form with Starlink, SpaceX, and Elon Musk.
+- This project is just for practice purposes only and self-interest.
