@@ -187,8 +187,11 @@ Data Fields:
 - launch_sites
 
 
-### Acknowledgements
-This dataset was created by me via webscraping techinques with the rvest and stringr packages.
+### Acknowledgements 
+This dataset was created by me via webscraping techniques.
+
+### Data Extraction
+RVest and Stringr Packages were utilized in R Studio.
 
 ### FAQS
 - I am not in affiliated in any way, shape, or form with Starlink, SpaceX, and Elon Musk.
